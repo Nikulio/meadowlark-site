@@ -9,6 +9,7 @@
   "author": "Nikulio",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.14.1",
+    "express3-handlebars": "^0.5.2"
   }
 }
