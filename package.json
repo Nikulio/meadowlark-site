@@ -1,0 +1,14 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Express train",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikulio",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
